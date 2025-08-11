@@ -1,10 +1,6 @@
 # Ray's custom Ghostty configuration.
-# Version: v0.0.2
+# Version: v0.0.3
 # Last Updated: 2025-8-11
-
-# Terminal Colors:
-background = 000000
-foreground = ffffff
 
 # Theme (themes are built-into Ghostty):
 theme = Grass
