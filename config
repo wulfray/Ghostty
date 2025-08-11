@@ -1,0 +1,18 @@
+# Ray's custom Ghostty configuration.
+# v0.0.1 2025-8-11
+
+# Terminal Colors:
+background = 000000
+foreground = ffffff
+
+# Window splitting:
+keybind = ctrl+w=new_split:up
+keybind = ctrl+a=new_split:left
+keybind = ctrl+s=new_split:down
+keybind = ctrl+d=new_split:right
+
+# Navigating Splits:
+keybind = ctrl+shift+w=goto_split:up
+keybind = ctrl+shift+a=goto_split:left
+keybind = ctrl+shift+s=goto_split:down
+keybind = ctrl+shift+d=goto_split:right
