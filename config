@@ -3,7 +3,7 @@
 # Last Updated: 2025-8-11
 
 # Theme (themes are built-into Ghostty):
-theme = Grass
+theme = Laser
 
 # Window splitting:
 keybind = ctrl+w=new_split:up
